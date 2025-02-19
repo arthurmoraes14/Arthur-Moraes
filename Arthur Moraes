@@ -57,4 +57,4 @@ ls -la / "$COLLECTED_DIR" > "$COLLECTED_DIR/root_dir_list.txt"
 
 # zipando
 tar -czf "TraceHunter_{Hostname}_{DataHora}.tar.gz" "$COLLECTED_DIR"
-jjj
+
